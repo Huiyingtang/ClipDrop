@@ -1,0 +1,11 @@
+# 编译产物
+ClipDrop.exe
+*.pdb
+*.obj
+
+# 系统 / 编辑器
+Thumbs.db
+desktop.ini
+.vs/
+.vscode/
+*.user
